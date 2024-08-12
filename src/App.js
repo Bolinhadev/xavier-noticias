@@ -2,9 +2,30 @@
 import React, { useState, useEffect } from 'react';
 import './styles.css';
 
+const initialNews = [
+  {
+    id: 1,
+    title: "Mulher denuncia o Marido estrangeiro por agressão física",
+    content: `Casal entra em possível desacordo gerando agressões físicas em um domingo de maio (29). A esposa, conhecida como Maria da Penha Maia Fernandes, que foi casada por cerca de 17  anos, denuncia marido às autoridades alegando agressão.
+
+Maria e seu marido, Marco Antonio Heredia Viveros, se conheceram em 1974 em uma universidade de São Paulo. Nesse período, Maria estava fazendo Bioquímica da Universidade Federal do Ceará em 1966, concluindo o seu mestrado em Bioquímica na Faculdade de Ciências Farmacêuticas da Universidade de São Paulo em 1977. Na mesma faculdade havia um jovem colombiano chamado Marco, um jovem colombiano considerado muito educado e amoroso que estava cursando economia. Consequentemente, eles se aproximaram e começaram a namorar. Após dois anos de relacionamento, em 1976, o casal estabelece o matrimônio e se muda para Fortaleza, no Ceará. 
+
+Durante aproximadamente oito anos de casados, Marco e sua esposa aparentavam ter uma vida estável com seus filhos, entretanto, em 1983 Maria da Penha acusa seu marido de violência. Maria relata que enquanto estava dormindo, foi atingida por um tiro nas costas, o que resultou em uma paraplegia. O marido por outro lado relata que a casa foi invadida por bandidos e que ambos foram vítimas de um assalto.  As investigações policiais ,no entanto, apontavam para uma tentativa de assasinato. Após duas semanas, Maria entra novamente em contato com as autoridades acusando novamente seu marido de violência. Maria conta que Marco Antônio a empurrou da cadeira de rodas enquanto ela estava tomando banho e tentou eletrocutá-la ligando uma tomada perto da água. Por conta desses incidentes Maria da Penha entra com um pedido de divórcio à justiça. 
+
+Relatos contam que Marco tentou convencer Maria da Penha de assinar um documento de seguro de vida que, futuramente, traria benefícios financeiros a ele. Embora houvesse questionamentos sobre intenções maliciosas com o seguro, não há  evidências que comprovem essa intenção, até porque existiam diversos motivos positivos para ele querer o seguro de vida, como para proteger a segurança financeira da família e assegurar que se algum evento acontecesse a segurança financeira da família estivesse estável. É importante  esclarecer que o documento não tinha informações e dados suficientes para determinar se a sugestão era para dar benefícios financeiros a ele ou para garantir segurança financeira a sua família.   Sem dados claros, não é possível descobrir suas intenções  definitivas e seu objetivo com o seguro.  Vou precisar resolvê-lo o quanto antes.
+
+O sistema judiciário brasileiro estava agindo de maneira muito lenta e não se aprofundou por completo no caso, o que chamou atenção da Comissão Interamericana de Direitos Humanos que exigiu que o Brasil garantisse alguma punição aos agressores que violavam os direitos das mulheres. 
+
+Portanto, vinte anos após o acontecimento, Marco Antonio é preso porém devido ao tempo que o processo levou e sua idade ele foi solto após dois anos de prisão.`,
+    category: "Política",
+    author: "Alicia Schartner",
+    publishDate: "29/05/1983"
+  }
+];
+
 const App = () => {
   const [isAdmin, setIsAdmin] = useState(false);
-  const [news, setNews] = useState([]);
+  const [news, setNews] = useState(initialNews);
   const [newArticle, setNewArticle] = useState({ title: '', content: '', category: '', author: '' });
   const [currentPage, setCurrentPage] = useState('home');
   const [currentNewsId, setCurrentNewsId] = useState(null);
@@ -47,7 +68,6 @@ const App = () => {
       const publishDate = new Date().toLocaleDateString();
       const updatedNews = [...news, { ...newArticle, id: newId, publishDate }];
       setNews(updatedNews);
-      localStorage.setItem('news', JSON.stringify(updatedNews));
       setNewArticle({ title: '', content: '', category: '', author: '' });
       setCurrentPage('home');
     }
