@@ -45,8 +45,11 @@ const App = () => {
     if (newArticle.title && newArticle.content && newArticle.category && newArticle.author) {
       const newId = Date.now();
       const publishDate = new Date().toLocaleDateString();
-      setNews([...news, { ...newArticle, id: newId, publishDate }]);
+      const updatedNews = [...news, { ...newArticle, id: newId, publishDate }];
+      setNews(updatedNews);
+      localStorage.setItem('news', JSON.stringify(updatedNews));
       setNewArticle({ title: '', content: '', category: '', author: '' });
+      setCurrentPage('home');
     }
   };
 
