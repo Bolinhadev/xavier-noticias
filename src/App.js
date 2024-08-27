@@ -37,6 +37,19 @@ Esses casos, embora sejam trágicos e bastante violentos, continuam a ser import
     category: "Destaques",
     author: "Equipe Xavier",
     publishDate: "31/07/1983"
+  },
+  {
+    id: 3,
+    title: "Saiba mais sobre o caso: Maria da Penha e Marco Heredia",
+    content: `Maria sofreu muito nas mãos de seu marido Marco Heredia, mas diversos relatos não foram levados em consideração no tribunal. É importante sempre estudar com cuidado ambos os lados da história quando o assunto é crime e cadeia até porque se deve evitar ao máximo uma possível injustiça. 
+Foi revelado em uma entrevista à Brasil Paralelo que Marco jurava nunca ter atirado em sua esposa e que na verdade sua casa foi invadida por quatro bandidos que cometeram tal ato. Ele afirmava que o tiro foi acidental e foi disparado por um dos invasores durante o assalto em sua casa. Marco alegou que não foi ele que eletrocutou sua esposa no chuveiro e que isso foi um mero acidente causado pela parte elétrica da casa. Porém nenhuma dessas histórias foi realmente possível de ser provada até porque haviam várias inconsistências. Marco Antonio buscou diversas maneiras de tentar fazer sua história ter a atenção das pessoas e fez com que inclusive as empregadas da casa fossem interrogadas. Elas diziam que encontraram Marco ensanguentado com uma corda em seu pescoço. A perícia investigou mais afundo e realmente havia sinais de arrombamento em toda a casa porém havia também, no teto, um tiro de uma bala de 38mm, que coincidia com a arma que foi encontrada na casa de Marco Viveiros. Portanto, tudo o que foi dito por ele foi desconsiderado pois as chances do tiro ter sido feito por  Marco eram muito altas. Heredia apresentou mais tarde um documento informando que ele só comprou essa arma depois do incidente com Maria. Novamente, a polícia desmentiu isso alegando que o documento era falso. 
+Independentemente se Marco foi preso injustamente ou não, seu caso levou o Brasil a criar uma lei muito importante para todas as vítimas de violência doméstica: A lei Maria da Penha.  
+Ainda existem muitas mulheres que sofrem com violência doméstica, mas desde 2006 esse número já diminuiu 10%. Isso graças à lei Maria da Penha que melhorou muito a situação do país. A lei Maria da Penha é uma lei fundamental até porque a implantação dela fez com que o Brasil acordasse para realidade e  para o combate a violência doméstica  e familiar contra a mulher. 
+Ela também proíbe a aplicação de penas onde o criminoso paga para sair da cadeia e dá a esses agressores três anos de prisão. Para as vítimas, é dado programas e serviços de proteção e assistência social. 
+A lei foi oficialmente criada  no dia  7 de agosto de 2006, e teve seu nome em homenagem à própria Maria da Penha. Essa lei foi criada a não muito tempo atrás se comparado a quantidade de evolução do ser humano ao longo do tempo. Por isso deve-se ressaltar que a pouco tempo atrás essas visões sobre violência doméstica praticamente não existiam e que até poderia ser considerado “normal” o homem na relação bater em uma mulher. Até o ano passado, não existia nenhum adulto que tivesse nascido já com a implantação desta lei, algo muito irônico pois o caso que moveu essa lei ser criada aconteceu a praticamente quarenta anos atrás.  `,
+    category: "Destaques",
+    author: "Equipe Xavier",
+    publishDate: "31/07/1983"
   }
 ];
 
