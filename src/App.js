@@ -50,7 +50,21 @@ A lei foi oficialmente criada  no dia  7 de agosto de 2006, e teve seu nome em h
     category: "Destaques",
     author: "Equipe Xavier",
     publishDate: "31/07/1983"
-  }
+  },
+  {
+    id: 4,
+    title: "Maria da penha- Processo Jurídico, justiça e desafios",
+    content: `  O processo Jurídico inicia em 1983 quando Maria da Penha denuncia o agressor e inicia um processo legal que foi levado à justiça. A justiça apresentou muitas falhas no processo e com muita lentidão.  Isso é característico do sistema do Brasil,já que às vezes  o sistema judicial brasileiro não dá a prioridade e atenção necessária.                                                                
+          Marco Antônio, agressor,  foi condenado a 15 anos de prisão após isso, para muitos foi considerado pouco tempo por causa da gravidade do crime cometido. Em 1985 a pena de prisão foi reduzida para 10 anos.  Ele sai após 6 anos em 1986 por causa de fatores legais e judiciais, pois foram feitas revisões  e apelações que permitiram isso. Depois de ser liberado, ele teve liberdade condicional que deixou Maria da Penha incomodada, pois estava com medo de possíveis próximos ataques. Como Maria estava insatisfeita com o sistema judicial nacional e leva o caso à CIDH, o Sistema Juridical do Brasil reformulou e revisou as leis em relação a violência doméstica e familiar criando a Lei Maria da Penha.  
+   Antes da lei maria da penha ser criada, existia apenas uma lei para violência, a lei n. 9.099/1995, que era considerada insensível e sem atenção aos demais problemas individuais.  As penas dos agressores eram menos graves e eram compostas por pagamento de cestas básicas e  trabalhos comunitários.  A vítima também era obrigada a comparecer na data e horário certo estipulados no documento. Por causa disso, o Consórcio ONG que participou da criação da lei Maria da Penha achou muito importante refazer a Lei n. 9.099/1995. Para isso a ONG e outros grupos da Sociedade Civil sugeriram debates com o Governo e o Congresso. 
+Os juizados especiais, criados para ajudar com casos de violencia domestica,  propuseram  medidas protetivas e refletiram a necessidade de um processo jurídico justo e mais sério nesses casos.     Após diversas discussões, ficou óbvio que era preciso melhorar o sistema para dar proteção adequada às vítimas.
+             Finalmente, depois de discussões, a lei Maria da Penha foi criada pelo presidente da República. A lei é conhecida internacionalmente e  mesmo depois de ter sido criada ela continuou a passar por ajustes e melhorias para ser mais eficaz. Um ajuste feito foi implementar medidas protetivas para as vítimas e projetos educacionais para evitar a repetição dessas violências. Também foram criadas delegacias especializadas e foi reforçado que a violência pode ocorrer de diversas formas, incluindo a sexual, física e moral.
+Embora essas iniciativas representem avanços importantes, ainda há críticas sobre a eficácia do sistema judicial já que muitas vezes, o sistema é considerado lento e falho, como aconteceu no caso de Maria da Penha. É essencial que, no sistema jurídico, todas as vozes sejam ouvidas e consideradas com seriedade.
+A ONU e a Comissão Interamericana de Direitos Humanos (CIDH) têm se envolvido bastante em casos brasileiros, garantindo que sejam tratados com importância, mas é preocupante pensar que, sem essa intervenção internacional, o processo judicial no Brasil poderia ter sido menos justo. Isso mostra a necessidade de melhorias no sistema judicial brasileiro para assegurar que todos os casos sejam tratados com a seriedade e a justiça que merecem. `,
+    category: "Destaques",
+    author: "Equipe Xavier",
+    publishDate: "31/07/1983"
+  },
 ];
 
 const App = () => {
