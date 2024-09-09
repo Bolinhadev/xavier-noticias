@@ -65,6 +65,20 @@ A ONU e a Comissão Interamericana de Direitos Humanos (CIDH) têm se envolvido 
     author: "Equipe Xavier",
     publishDate: "31/07/1983"
   },
+    {
+    id: 5,
+    title: "O QUE SE APRENDE COM O CASO MARIA DA PENHA",
+    content: `O caso Maria da Penha ganhou muita atenção e fama até porque, por conta dele, o Brasil teve que prestar atenção em problemas que eram ignorados por muita gente: a violência doméstica contra as mulheres. O impacto desse caso foi tão grande que não mudou só as leis mas também gerou pensamentos sobre como a sociedade trata as mulheres. 
+Maria da Penha, uma mulher que ficou conhecida por passar por momentos tristes e violentos, acabou virando um exemplo de resistência e luta por justiça. A princípio, quase ninguém poderia imaginar que sua história criaria um debate tão grande e tantas conversas sobre os direitos das mulheres, como a violência de gênero é séria e sobre a justiça e a visão de dois lados em um tribunal de justiça. 
+Esse caso foi muito importante para “quebrar tabus” que a sociedade criou e fez com que esses assuntos pudessem ser discutidos mais livremente e também com que as pessoas enxergassem que todos devem ajudar a resolver os problemas de violência doméstica e não só ser considerada como “um problema de família”. Além disso, o caso se mostrou ser uma grande fonte de aprendizado para entender de forma justa como cada indivíduo deve ser tratado quando se trata de um crime e mesmo que o foco esteja totalmente na proteção das vítimas é muito importante ter certeza de que todos os processos foram justos e que os direitos de todos os lados do caso tenham sido respeitados. 
+A violência doméstica é um problema sério, mas é muito importante que as soluções para esse problema sejam equilibradas e que todos tenham a chance de se defender de maneira adequada. No caso de Maria da Penha, a criação da lei, além de uma grande ajuda para a proteção das mulheres, também fez com que houvesse conversas sobre como as acusações devem ser tratadas com cuidado, evitando julgamentos precipitados.
+O caso dela gerou muitas mudanças positivas, como mais conscientização sobre a violência doméstica nas escolas e na mídia. Os jovens de hoje, desde cedo, começaram a aprender sobre a importância da igualdade de gênero, do respeito e da justiça. Já que as escolas começaram  a discutir a violência doméstica, os direitos humanos e a igualdade de gênero. Outra mudança positiva é que a lei Maria da Penha serviu como modelo e  fez com que vários outros países também fizessem algo em relação à violência.  Esses são a Suécia, o Reino Unido, a França e a Noruega.  E muitos outros da américa do sul como a Bolívia em 2013  com a lei 348 e a Colômbia, Argentina  promovendo proteção e prevenção. A maioria desses países estabelecem  também leis  que principalmente lutam pela igualdade de gênero.  Também a ONU Mulheres e a CIDH começaram a discutir bastante a lei Maria da Penha.
+Além disso, o impacto do caso Maria da Penha foi tão grande que motivou a criação de redes de apoio para as vítimas, o que é muito importante. No entanto, enquanto trabalhamos para apoiar as vítimas, também precisamos garantir que os processos legais sejam conduzidos de forma imparcial.
+`,
+    category: "Destaques",
+    author: "Equipe Xavier",
+    publishDate: "31/07/1983"
+  }
 ];
 
 const App = () => {
