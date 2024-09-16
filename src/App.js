@@ -78,7 +78,22 @@ Além disso, o impacto do caso Maria da Penha foi tão grande que motivou a cria
     category: "Destaques",
     author: "Equipe Xavier",
     publishDate: "31/07/1983"
-  }
+  },
+  {
+    id: 5,
+    title: "Finalmente! O caso Maria da Penha será julgado",
+    content: `Após muitas análises e burocracias, finalmente o caso irá para o tribunal de justiça onde ele será mais discutido e finalmente julgado Isso ocorrerá durante o período da manhã do dia 27 de setembro de 2024.  Talvez você nem saiba direito o que é um tribunal do  júri, então explicaremos aqui algumas coisas essenciais sobre o Júri.
+     O Tribunal do júri é o órgão do poder judiciário  que julga crimes dolorosos, como homicídios, feminicídios, entre outros. O tribunal do júri é formado por um juiz e vinte cinco jurados. Desses, vinte e cinco 7 serão escolhidos para  compor o conselho de sentença  negando ou afirmando  a existência do fato criminoso atribuído por uma pessoa.  Ou seja, o conselho de sentença discute os fatos e  decide se eles realmente ocorreram. Sendo esses grupos a acusação e a defesa. A acusação afirma  que a entidade  fez algo impróprio  e a defesa que defende argumenta a favor do réu e nega a existência do fato criminoso atribuído.  O Júri é constituído em 3 fases: A primeira fase  é a do juízo de acusação, o qual o objetivo é identificar se o crime realmente deve ser julgado pelo Tribunal do júri. 
+  O processo  começa com o oferecimento da denúncia pelo ministério público, depois disso o júri ou juiz decide se quer continuar o processo e se ele acha que tem elementos suficientes para começar ele.  Se o júri decidir continuar com o tribunal , começa a segunda fase onde o réu responde a acusação onde ele pode questionar as acusações feitas  ou apresentar argumentos preliminares. Depois disso são apresentadas e procuradas provas, documentos entre outros para analisar quem está falando a verdade. É eficaz já enquanto algum indivíduo está debatendo já apresentar e se basear em provas, porque isso muitas vezes  ganha a confiança do juiz e deixa o seu lado mais verídico.  Já que o réu ou outros jurados podem apresentar questões como a falta de provas para dar continuidade ao processo. Na  terceira fase o juiz decide se há evidências suficientes para levar o réu a julgamento no Tribunal do júri . O que pode ocorrer  é a absolvição sumária que ao final da fase da segunda fase o juiz, acha que não há evidências ou provas suficientes para sustentar a acusação ou que o réu não cometeu o crime discutido. Com isso eles encerram o processo e o réu  é liberado.
+ Ocorre também  a desclassificação em alguns casos, que é quando o juiz acha que o fato descrito na denúncia distorce  e não corresponde mais ao crime inicialmente discutido, mas com um crime com menos gravidade.  Lembre de sempre seguir os princípios do júri que são : plenitude de defesa, sigilo das votações, soberania dos veredictos e competência mínima para o julgamento de crimes dolosos contra a vida. Essencial para um processo de justiça justo  é   também garantir que todas as vozes sejam ouvidas e garantir que as decisões sejam tomadas em base de provas e não emoções ou preconceitos. É eficaz então quando algum desses aspectos não for seguido, apontar e relembrar os juízes ou usar até em suas falas os princípios e aspectos citados acima no debate mostrando sabedoria sobre o tribunal do júri. Discuta bem com a sua equipe de defesa a importância  da escolha de boas provas e análise como elas serão interpretadas pelo júri e discuta como vocês podem estruturar para garantir que sejam compreendidas. Algumas provas e ideias de discussão também estão no nosso site, então se estiverem com dificuldades estamos dispostos a ajudar.
+Coletar informações sobre os jurados é  também um benéfico para conseguir entender suas crenças para antecipar reações. Achar provas que podem ser usadas pela acusação  pode ajudar a encontrar fraquezas e  assim você pode começar a formular sua resposta à acusação.  É importante também se preparar para as perguntas difíceis e os possíveis “ataques” no debate e treinar a credibilidade.  Manter uma boa postura e mostrar empatia aos juízes também é essencial para passar uma imagem boa e convencer os juízes.
+
+Desejo um bom Tribunal do Júri a todos, se preparem bem :)
+`,
+    category: "Destaques",
+    author: "Equipe Xavier",
+    publishDate: "31/07/1983"
+  },
 ];
 
 const App = () => {
