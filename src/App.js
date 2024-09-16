@@ -66,7 +66,7 @@ A ONU e a Comissão Interamericana de Direitos Humanos (CIDH) têm se envolvido 
     publishDate: "31/07/1983"
   },
     {
-    id: 5,
+    id: 6,
     title: "O QUE SE APRENDE COM O CASO MARIA DA PENHA",
     content: `O caso Maria da Penha ganhou muita atenção e fama até porque, por conta dele, o Brasil teve que prestar atenção em problemas que eram ignorados por muita gente: a violência doméstica contra as mulheres. O impacto desse caso foi tão grande que não mudou só as leis mas também gerou pensamentos sobre como a sociedade trata as mulheres. 
 Maria da Penha, uma mulher que ficou conhecida por passar por momentos tristes e violentos, acabou virando um exemplo de resistência e luta por justiça. A princípio, quase ninguém poderia imaginar que sua história criaria um debate tão grande e tantas conversas sobre os direitos das mulheres, como a violência de gênero é séria e sobre a justiça e a visão de dois lados em um tribunal de justiça. 
